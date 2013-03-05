@@ -1,0 +1,12 @@
+[submodule "vendor/nhp"]
+	path = vendor/nhp
+	url = git://github.com/leemason/NHP-Theme-Options-Framework.git
+[submodule "vendor/wpreduxadmin"]
+	path = vendor/wpreduxadmin
+	url = git://github.com/ghost1227/Redux-Framework/
+[submodule "vendor/upthemesframework"]
+	path = vendor/upthemesframework
+	url = git://github.com/LiftUX/UpThemes-Framework.git
+[submodule "vendor/optiontree"]
+	path = vendor/optiontree
+	url = https://github.com/valendesigns/option-tree
